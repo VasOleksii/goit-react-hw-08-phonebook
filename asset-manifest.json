@@ -1,13 +1,43 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-07-phonebook/static/css/main.47c1673e.css",
-    "main.js": "/goit-react-hw-07-phonebook/static/js/main.c3601f97.js",
-    "index.html": "/goit-react-hw-07-phonebook/index.html",
-    "main.47c1673e.css.map": "/goit-react-hw-07-phonebook/static/css/main.47c1673e.css.map",
-    "main.c3601f97.js.map": "/goit-react-hw-07-phonebook/static/js/main.c3601f97.js.map"
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.e1227e22.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.987eac50.js",
+    "static/css/591.b9bed8b0.chunk.css": "/goit-react-hw-08-phonebook/static/css/591.b9bed8b0.chunk.css",
+    "static/js/591.69a5f796.chunk.js": "/goit-react-hw-08-phonebook/static/js/591.69a5f796.chunk.js",
+    "static/css/468.46a6b543.chunk.css": "/goit-react-hw-08-phonebook/static/css/468.46a6b543.chunk.css",
+    "static/js/468.7d323a4d.chunk.js": "/goit-react-hw-08-phonebook/static/js/468.7d323a4d.chunk.js",
+    "static/css/473.350cabfb.chunk.css": "/goit-react-hw-08-phonebook/static/css/473.350cabfb.chunk.css",
+    "static/js/473.7e014e92.chunk.js": "/goit-react-hw-08-phonebook/static/js/473.7e014e92.chunk.js",
+    "static/css/589.5fbbf0d9.chunk.css": "/goit-react-hw-08-phonebook/static/css/589.5fbbf0d9.chunk.css",
+    "static/js/589.1a184df6.chunk.js": "/goit-react-hw-08-phonebook/static/js/589.1a184df6.chunk.js",
+    "static/css/963.7bdea343.chunk.css": "/goit-react-hw-08-phonebook/static/css/963.7bdea343.chunk.css",
+    "static/js/963.6d8f4ee1.chunk.js": "/goit-react-hw-08-phonebook/static/js/963.6d8f4ee1.chunk.js",
+    "static/css/305.aef5c2bc.chunk.css": "/goit-react-hw-08-phonebook/static/css/305.aef5c2bc.chunk.css",
+    "static/js/305.32596d59.chunk.js": "/goit-react-hw-08-phonebook/static/js/305.32596d59.chunk.js",
+    "static/css/536.eb13224b.chunk.css": "/goit-react-hw-08-phonebook/static/css/536.eb13224b.chunk.css",
+    "static/js/536.dbaabbac.chunk.js": "/goit-react-hw-08-phonebook/static/js/536.dbaabbac.chunk.js",
+    "static/js/568.5aab47b3.chunk.js": "/goit-react-hw-08-phonebook/static/js/568.5aab47b3.chunk.js",
+    "index.html": "/goit-react-hw-08-phonebook/index.html",
+    "main.e1227e22.css.map": "/goit-react-hw-08-phonebook/static/css/main.e1227e22.css.map",
+    "main.987eac50.js.map": "/goit-react-hw-08-phonebook/static/js/main.987eac50.js.map",
+    "591.b9bed8b0.chunk.css.map": "/goit-react-hw-08-phonebook/static/css/591.b9bed8b0.chunk.css.map",
+    "591.69a5f796.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/591.69a5f796.chunk.js.map",
+    "468.46a6b543.chunk.css.map": "/goit-react-hw-08-phonebook/static/css/468.46a6b543.chunk.css.map",
+    "468.7d323a4d.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/468.7d323a4d.chunk.js.map",
+    "473.350cabfb.chunk.css.map": "/goit-react-hw-08-phonebook/static/css/473.350cabfb.chunk.css.map",
+    "473.7e014e92.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/473.7e014e92.chunk.js.map",
+    "589.5fbbf0d9.chunk.css.map": "/goit-react-hw-08-phonebook/static/css/589.5fbbf0d9.chunk.css.map",
+    "589.1a184df6.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/589.1a184df6.chunk.js.map",
+    "963.7bdea343.chunk.css.map": "/goit-react-hw-08-phonebook/static/css/963.7bdea343.chunk.css.map",
+    "963.6d8f4ee1.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/963.6d8f4ee1.chunk.js.map",
+    "305.aef5c2bc.chunk.css.map": "/goit-react-hw-08-phonebook/static/css/305.aef5c2bc.chunk.css.map",
+    "305.32596d59.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/305.32596d59.chunk.js.map",
+    "536.eb13224b.chunk.css.map": "/goit-react-hw-08-phonebook/static/css/536.eb13224b.chunk.css.map",
+    "536.dbaabbac.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/536.dbaabbac.chunk.js.map",
+    "568.5aab47b3.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/568.5aab47b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47c1673e.css",
-    "static/js/main.c3601f97.js"
+    "static/css/main.e1227e22.css",
+    "static/js/main.987eac50.js"
   ]
 }
